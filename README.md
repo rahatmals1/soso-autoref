@@ -1,12 +1,12 @@
-## don't use your main account!! & your own risk 
+
 
 ## installation 
 
 ```
-git clone https://github.com/nbprg/soso
+git clone https://github.com/rahatmals1/soso-autoref.git
 ```
 ```
-cd soso
+cd soso-autoref
 ```
 ```
 python app.py
@@ -25,8 +25,5 @@ nano proxy.txt
 python main_bot.py
 ```
 - Input your `web url` & ref code.
-- Done ✅
+- Done 
 
-## support 
-- Solana : `4RoRBBC4FUC5aN5MHVYSGnom12CRjVMsPHXVV9ANR4rg`
-- bep20 : `0xec46a2c4b1d00d6aa6d49d4da6354406645d46bb`
